@@ -1,4 +1,4 @@
-# my-app
+# My To Do App
 This is a sample To Do App built entirely using vue.js
 ## Project setup
 ```
