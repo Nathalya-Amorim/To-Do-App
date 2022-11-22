@@ -1,5 +1,5 @@
 # my-app
-
+This is a sample To Do App built entirely using vue.Js
 ## Project setup
 ```
 npm install
